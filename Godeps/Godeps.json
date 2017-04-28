@@ -1,0 +1,54 @@
+{
+	"ImportPath": "example-go-godep",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/bitly/go-simplejson",
+			"Comment": "v0.5.0-4-gda1a892",
+			"Rev": "da1a8928f709389522c8023062a3739f3b4af419"
+		},
+		{
+			"ImportPath": "github.com/fatih/color",
+			"Comment": "v1.4.1",
+			"Rev": "9131ab34cf20d2f6d83fdc67168a5430d1c7dc23"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-colorable",
+			"Comment": "v0.0.7-24-gded68f7",
+			"Rev": "ded68f7a9561c023e790de24279db7ebf473ea80"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-isatty",
+			"Comment": "v0.0.2",
+			"Rev": "fc9e8d8ef48496124e79ae0df75490096eccf6fe"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-runewidth",
+			"Comment": "v0.0.2-1-g14207d2",
+			"Rev": "14207d285c6c197daabb5c9793d63e7af9ab2d50"
+		},
+		{
+			"ImportPath": "github.com/nsf/termbox-go",
+			"Rev": "7994c181db7761ca3c67a217068cf31826113f5f"
+		},
+		{
+			"ImportPath": "github.com/nwidger/jsoncolor",
+			"Rev": "75a6de4340e59be95f0884b9cebdda246e0fdf40"
+		},
+		{
+			"ImportPath": "github.com/pkg/errors",
+			"Comment": "v0.8.0-4-gff09b13",
+			"Rev": "ff09b135c25aae272398c51a07235b90a75aa4f0"
+		},
+		{
+			"ImportPath": "github.com/simeji/jid",
+			"Comment": "0.7.2",
+			"Rev": "9090f06e9643aa1a4e95904a4ebbd6d186b3a20f"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "9ccfe848b9db8435a24c424abbc07a921adf1df5"
+		}
+	]
+}
